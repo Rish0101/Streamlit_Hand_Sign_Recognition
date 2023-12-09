@@ -1,3 +1,5 @@
+pip install streamlit==0.89.0 opencv-python==4.5.3.56 cvzone==1.5.0 tensorflow==2.6.0
+
 import streamlit as st
 import cv2
 from cvzone.HandTrackingModule import HandDetector
